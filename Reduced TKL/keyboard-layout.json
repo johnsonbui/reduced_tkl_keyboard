@@ -1,0 +1,327 @@
+[
+  {
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-G1xx"
+  },
+  [
+    {
+      "c": "#cb2f2a",
+      "st": "MX1A-G1Nx",
+      "a": 7
+    },
+    "Esc",
+    {
+      "x": 0.25,
+      "c": "#dbdbdb"
+    },
+    "1\n\n\n\n!",
+    "2\n\n\n\n@",
+    "3\n\n\n\n#",
+    "4\n\n\n\n$",
+    "5\n\n\n\n%",
+    "6\n\n\n\n^",
+    "7\n\n\n\n&",
+    "8\n\n\n\n*",
+    "9\n\n\n\n(",
+    "0\n\n\n\n)",
+    {
+      "fa": [
+        4
+      ]
+    },
+    "-\n\n\n\n-",
+    {
+      "f": 3
+    },
+    "+\n\n\n\n=",
+    {
+      "x": 0.25,
+      "f": 3
+    },
+    "`\n\n\n\n~",
+    {
+      "x": 0.25,
+      "c": "#7d8181",
+      "t": "#ffffff",
+      "f": 3
+    },
+    "Insert\n\n\n\nPrtSc",
+    {
+      "f": 3
+    },
+    "Home\n\n\n\nScrl Lck",
+    {
+      "f": 3
+    },
+    "PgUp\n\n\n\nBreak"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "c": "#dbdbdb",
+      "t": "#000000",
+      "f": 3
+    },
+    "Q\n\n\n\n<i class='kb kb-Multimedia-Rewind'></i>",
+    {
+      "f": 3,
+      "n": true
+    },
+    "W\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    {
+      "f": 3
+    },
+    "E\n\n\n\n<i class='kb kb-Multimedia-FastForwar'></i>",
+    {
+      "f": 3
+    },
+    "R",
+    {
+      "f": 3
+    },
+    "T",
+    {
+      "f": 3
+    },
+    "Y",
+    {
+      "f": 3
+    },
+    "U",
+    {
+      "f": 3
+    },
+    "I",
+    {
+      "f": 3
+    },
+    "O",
+    {
+      "f": 3
+    },
+    "P",
+    {
+      "f": 3
+    },
+    "[\n\n\n\n{",
+    {
+      "f": 3
+    },
+    "]\n\n\n\n}",
+    {
+      "f": 3
+    },
+    "\\\n\n\n\n|",
+    {
+      "x": 0.25,
+      "c": "#7d8181",
+      "t": "#ffffff",
+      "f": 3
+    },
+    "Delete",
+    {
+      "f": 3
+    },
+    "End",
+    {
+      "f": 3
+    },
+    "PgDn"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.75
+    },
+    "Caps Lock",
+    {
+      "c": "#dbdbdb",
+      "t": "#000000",
+      "f": 3
+    },
+    "A\n\n\n\n<i class='kb kb-Multimedia-Rewind-Start'></i>",
+    {
+      "f": 3
+    },
+    "S\n\n\n\n<i class='kb kb-Multimedia-Mute-2'></i>",
+    {
+      "f": 3
+    },
+    "D\n\n\n\n<i class='kb kb-Multimedia-FastForward-End'></i>",
+    {
+      "f": 3,
+      "n": true
+    },
+    "F",
+    {
+      "f": 3
+    },
+    "G",
+    {
+      "f": 3
+    },
+    "H",
+    {
+      "f": 3,
+      "n": true
+    },
+    "J",
+    {
+      "f": 3
+    },
+    "K",
+    {
+      "f": 3
+    },
+    "L",
+    {
+      "f": 3
+    },
+    ";\n\n\n\n:",
+    {
+      "f": 3
+    },
+    "'\n\n\n\n\"",
+    {
+      "c": "#cb2f2a",
+      "f": 3,
+      "w": 1.75
+    },
+    "Enter"
+  ],
+  [
+    {
+      "c": "#7d8181",
+      "t": "#ffffff",
+      "f": 3,
+      "w": 2.25
+    },
+    "Shift",
+    {
+      "c": "#dbdbdb",
+      "t": "#000000",
+      "f": 3
+    },
+    "Z",
+    {
+      "f": 3
+    },
+    "X",
+    {
+      "f": 3
+    },
+    "C",
+    {
+      "f": 3
+    },
+    "V",
+    {
+      "f": 3
+    },
+    "B",
+    {
+      "f": 3
+    },
+    "N",
+    {
+      "f": 3
+    },
+    "M",
+    {
+      "f": 3
+    },
+    ",\n\n\n\n<",
+    {
+      "f": 3
+    },
+    ".\n\n\n\n>",
+    {
+      "f": 3
+    },
+    "/\n\n\n\n?",
+    {
+      "c": "#7d8181",
+      "t": "#ffffff",
+      "f": 3,
+      "w": 2.25
+    },
+    "Shift",
+    {
+      "x": 1.25,
+      "f": 3
+    },
+    "↑"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "<i class='kb kb-logo-windows-8'></i>",
+    {
+      "fa": [
+        7
+      ],
+      "w": 1.25
+    },
+    "<i class='kb kb-Unicode-Alternate-1'></i>",
+    {
+      "fa": [
+        6
+      ],
+      "w": 1.25
+    },
+    "<i class='fa fa-gg'></i>",
+    {
+      "c": "#dbdbdb",
+      "t": "#000000",
+      "w": 3
+    },
+    "",
+    {
+      "f": 3,
+      "w": 2.75
+    },
+    "Backspace",
+    {
+      "c": "#7d8181",
+      "t": "#ffffff",
+      "f": 3,
+      "w": 1.25
+    },
+    "<i class='kb kb-logo-windows-8'></i>",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "<i class='kb kb-Hamburger-Menu'></i>",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "x": 0.25,
+      "f": 3
+    },
+    "←",
+    {
+      "f": 3
+    },
+    "↓",
+    {
+      "f": 3
+    },
+    "→"
+  ]
+]
